@@ -20,11 +20,20 @@
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/Day03LoopExercises.java">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/Day03Multiples.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="207">
-              <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+            <state relative-caret-position="322">
+              <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/Day03While100Break37.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="115">
+              <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -103,6 +112,8 @@
         <option value="$PROJECT_DIR$/src/Day02ArithmeticOps.java" />
         <option value="$PROJECT_DIR$/src/Day02RubberDuck.java" />
         <option value="$PROJECT_DIR$/src/Day03LoopExercises.java" />
+        <option value="$PROJECT_DIR$/src/Day03Multiples.java" />
+        <option value="$PROJECT_DIR$/src/Day03While100Break37.java" />
       </list>
     </option>
   </component>
@@ -139,7 +150,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547675158182" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547675681344" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -155,7 +166,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day03Multiples">
+  <component name="RunManager" selected="Application.Day03While100Break37">
     <configuration name="Day02GradingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day02GradingBook" />
       <module name="apprentice-eta-assignments" />
@@ -165,13 +176,6 @@
     </configuration>
     <configuration name="Day02RubberDuck" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day02RubberDuck" />
-      <module name="apprentice-eta-assignments" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Day02TemperatureConverter" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Day02TemperatureConverter" />
       <module name="apprentice-eta-assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -191,20 +195,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="Day03While100Break37" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day03While100Break37" />
+      <module name="apprentice-eta-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Day02TemperatureConverter" />
       <item itemvalue="Application.Day02RubberDuck" />
       <item itemvalue="Application.Day02GradingBook" />
       <item itemvalue="Application.Day03Loop100" />
       <item itemvalue="Application.Day03Multiples" />
+      <item itemvalue="Application.Day03While100Break37" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day03While100Break37" />
         <item itemvalue="Application.Day03Multiples" />
         <item itemvalue="Application.Day03Loop100" />
         <item itemvalue="Application.Day02GradingBook" />
         <item itemvalue="Application.Day02RubberDuck" />
-        <item itemvalue="Application.Day02TemperatureConverter" />
       </list>
     </recent_temporary>
   </component>
@@ -221,18 +232,18 @@
       <workItem from="1547648850305" duration="3550000" />
       <workItem from="1547666464814" duration="602000" />
       <workItem from="1547669618083" duration="3000" />
-      <workItem from="1547669626970" duration="2543000" />
+      <workItem from="1547669626970" duration="3060000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="6698000" />
+    <option name="totallyTimeSpent" value="7215000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.2629683" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2629683" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
@@ -337,10 +348,17 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day03LoopExercises.java">
+    <entry file="file://$PROJECT_DIR$/src/Day03Multiples.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="207">
-          <caret line="9" column="39" lean-forward="true" selection-start-line="9" selection-start-column="39" selection-end-line="9" selection-end-column="39" />
+        <state relative-caret-position="322">
+          <caret line="14" column="10" selection-start-line="14" selection-start-column="10" selection-end-line="14" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day03While100Break37.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="115">
+          <caret line="5" column="13" lean-forward="true" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
         </state>
       </provider>
     </entry>
