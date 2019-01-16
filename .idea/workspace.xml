@@ -30,28 +30,28 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
+        <entry file="file://$PROJECT_DIR$/src/Day02TemperatureConverter.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="104">
-              <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
+            <state relative-caret-position="138">
+              <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="73" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/Day02TemperatureConverter.java">
+        <entry file="file://$PROJECT_DIR$/src/Day02RubberDuck.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="161">
-              <caret line="7" column="57" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="57" />
+            <state relative-caret-position="253">
+              <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/RubberDuck.java">
+        <entry file="file://$PROJECT_DIR$/src/Day02GradingBook.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
-              <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+            <state relative-caret-position="230">
+              <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -77,6 +77,8 @@
         <option value="$PROJECT_DIR$/src/Day02ArithmeticOps.java" />
         <option value="$PROJECT_DIR$/src/Day02TemperatureConverter.java" />
         <option value="$PROJECT_DIR$/src/RubberDuck.java" />
+        <option value="$PROJECT_DIR$/src/Day02RubberDuck.java" />
+        <option value="$PROJECT_DIR$/src/Day02GradingBook.java" />
       </list>
     </option>
   </component>
@@ -113,7 +115,7 @@
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547653060867" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1547653746573" />
     <property name="settings.editor.selected.configurable" value="preferences.keymap" />
     <property name="show.migrate.to.gradle.popup" value="false" />
   </component>
@@ -129,9 +131,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Day02RubberDuck">
+  <component name="RunManager" selected="Application.Day02GradingBook">
     <configuration name="Day02ArithmeticOps" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Day02ArithmeticOps" />
+      <module name="apprentice-eta-assignments" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02GradingBook" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Day02GradingBook" />
       <module name="apprentice-eta-assignments" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -166,9 +175,11 @@
       <item itemvalue="Application.Day02ArithmeticOps" />
       <item itemvalue="Application.Day02TemperatureConverter" />
       <item itemvalue="Application.Day02RubberDuck" />
+      <item itemvalue="Application.Day02GradingBook" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Day02GradingBook" />
         <item itemvalue="Application.Day02RubberDuck" />
         <item itemvalue="Application.Day02TemperatureConverter" />
         <item itemvalue="Application.Day02ArithmeticOps" />
@@ -186,12 +197,12 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1547648849007</updated>
-      <workItem from="1547648850305" duration="2755000" />
+      <workItem from="1547648850305" duration="3550000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="2755000" />
+    <option name="totallyTimeSpent" value="3550000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="0" y="0" width="1440" height="900" extended-state="6" />
@@ -249,13 +260,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="104">
-          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/Day02ArithmeticOps.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="138">
@@ -263,17 +267,31 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/Day02TemperatureConverter.java">
+    <entry file="jar:///Library/Java/JavaVirtualMachines/jdk1.8.0_192.jdk/Contents/Home/src.zip!/java/io/PrintStream.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="161">
-          <caret line="7" column="57" selection-start-line="6" selection-start-column="8" selection-end-line="7" selection-end-column="57" />
+        <state relative-caret-position="104">
+          <caret line="803" column="16" selection-start-line="803" selection-start-column="16" selection-end-line="803" selection-end-column="16" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/RubberDuck.java">
+    <entry file="file://$PROJECT_DIR$/src/Day02TemperatureConverter.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
-          <caret line="8" column="36" selection-start-line="8" selection-start-column="36" selection-end-line="8" selection-end-column="36" />
+        <state relative-caret-position="138">
+          <caret line="6" column="8" lean-forward="true" selection-start-line="6" selection-start-column="8" selection-end-line="8" selection-end-column="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day02RubberDuck.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="253">
+          <caret line="11" column="14" lean-forward="true" selection-start-line="11" selection-start-column="14" selection-end-line="11" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/Day02GradingBook.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="10" column="22" lean-forward="true" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
         </state>
       </provider>
     </entry>
