@@ -10,6 +10,10 @@ public class ToDoListItem {
         this.description = description;
     }
 
+    public void print() {
+        System.out.println("Item " + this.description + " has state " + this.state);
+    }
+
     public void startProgress() {
         this.state = State.IN_PROGRESS;
     }

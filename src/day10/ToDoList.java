@@ -17,4 +17,10 @@ public class ToDoList {
     public ArrayList<ToDoListItem> getItems() {
         return items;
     }
+
+    public void print() {
+        for (ToDoListItem item: items) {
+            item.print();
+        }
+    }
 }
