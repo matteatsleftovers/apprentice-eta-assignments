@@ -1,3 +1,5 @@
+package day04;
+
 public class Day04Multiples {
 
     public static void main(String[] args) {

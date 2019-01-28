@@ -1,3 +1,5 @@
+package day03;
+
 public class Day03While100Break37 {
 
     public static void main(String[] args) {

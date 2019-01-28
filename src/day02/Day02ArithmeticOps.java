@@ -1,3 +1,5 @@
+package day02;
+
 public class Day02ArithmeticOps {
 
     public static void main(String[] args) {
